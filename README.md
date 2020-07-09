@@ -1,5 +1,6 @@
-<img src='https://edgeguides.rubyonrails.org/images/getting_started/rails_welcome.png'></img>
-
+<div class="d-flex flex-justify-center">
+  <img class='' src='https://edgeguides.rubyonrails.org/images/getting_started/rails_welcome.png' height="400px"></img>
+</div>
 <!--
 **mkhairi/mkhairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
