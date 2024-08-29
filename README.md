@@ -1,5 +1,4 @@
-<img class='' src='https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg' width="100%" style="display: flex; justify-content: center"></img>
-
+<img class='' src='https://raw.githubusercontent.com/mkhairi/mkhairi.github.io/master/assets/images/keys.png' width="100%" style="display: flex; justify-content: center"></img>
 <div align="center">
   
 [![](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/mkhairi)
